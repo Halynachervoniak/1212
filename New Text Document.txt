@@ -1,3 +1,6 @@
+
+
+
 CREATE PROCEDURE [dbo].[STP_GenerateShipments]
 AS
 BEGIN
